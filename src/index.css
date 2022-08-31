@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Rangla, Colors, Цвета */
+.mars-green{
+    background-color:  #008c8c ;
+    
+}
+.mars-text{
+    color:  #008c8c ;
+    
+}
+
+.combi-bg{
+    background-color: #02343F;
+}
+.combi-text{
+    color: #F0EDCC;
+    
+}
+
+.nav-bg{
+    background-color: #0A174E;
+}
+.sariq-txt{
+    color: #F5D042;
+}
+.line-clamp{
+    line-clamp: 3;
+}
+
+
+.card-bg{
+    background-color:#07553B;
+}
+.card-txt{
+    color:#CED46A;
+}
+.korz-bg{
+    background-color:#A4193D;
+}
+.korz-txt{
+    color:#FFDFB9;
+}
+.mob-bg{
+    background-color: #2BAE66;
+}
+.mobi-txt{
+    color: #FCF6F5;
+}
+.inpu-bg{
+    background-color:#F0EBE3;
+}
+.inpu-txt{
+    color: #FFFFFF;
+}
+/* Marginla */
+.ml-center{
+    margin: 0  auto;
+    margin-top: 190px;
+}
+.ml-center-add{
+    margin: 0  auto;
+}
+
+/* Brbalode , Responsive , Адаптивка */
+/* .respon-card{
+    width: 300px;
+
+}
+@media (max-width:768){
+    .respon-card{
+       width: 200px;
+       
+    }
+} */
+
+/* Gradients */
+
+.linea_add{
+    width: 100%;
+    height: 100%;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    
+
+}

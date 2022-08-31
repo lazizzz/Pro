@@ -1,0 +1,85 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "title": "Samuel L Jackson",
+      "description": "Сэ́мюэл Леро́й Дже́ксон — американский актёр кино и телевидения, продюсер. В 1991 году получил признание критиков за свою роль в фильме «Тропическая лихорадка», а после появился в таких фильмах, как «Славные парни», «Игры патриотов» и «Парк юрского периода».",
+      "releaseDate": " 21 декабря 1948 г.",
+      "imageURL": "https://i.pinimg.com/236x/3a/8c/c1/3a8cc1592afa7067faf8fb4ac93fc894.jpg",
+      "image_two": "https://qph.cf2.quoracdn.net/main-qimg-ff2941354cc1721b57910dbac3f434a9-lq"
+    },
+    {
+      "title": "2Pac",
+      "description": "Ту́пак Ама́ру Шаку́р — хип-хоп-исполнитель, продюсер и актёр из Гарлема, Нью-Йорк, а позже — из Окленда, Калифорния. Является одним из наиболее влиятельных хип-хоп-исполнителей в истории. По состоянию на 2015 год, по всему миру было продано более 80 млн записей Тупака",
+      "releaseDate": "16 июня 1971 г",
+      "imageURL": "https://i.pinimg.com/564x/0b/3a/f2/0b3af296467517c10fdedf3a2ad9d649.jpg",
+      "image_two": "https://hiphop4real.com/wp-content/uploads/2016/06/maxresdefault-8.jpg",
+      "id": 2
+    },
+    {
+      "title": "Eminem",
+      "description": "Ма́ршалл Брюс Мэ́терс III, более известный под сценическим псевдонимом Эмине́м и альтер-эго Слим Шейди, — американский рэпер, музыкальный продюсер, композитор и актёр. Помимо сольной карьеры состоял в группе D12 и хип-хоп-дуэте Bad Meets ",
+      "releaseDate": "17 октября 1972",
+      "imageURL": "https://i.pinimg.com/236x/4f/d9/8b/4fd98b823beb212a42967827ff3466ff.jpg",
+      "image_two": "https://cdn.ren.tv/cache/960x540/media/img/87/9f/879fa9f45f390637d919c7a44d24d44ebe4ae449.png",
+      "id": 3
+    },
+    {
+      "title": "Al Pacino",
+      "description": "Альфре́до Джеймс Пачи́но — американский актёр, режиссёр и сценарист. Наиболее знаменит своими ролями гангстеров — Майкл Корлеоне в трилогии «Крёстный отец» Фрэнсиса Форда Копполы и Тони Монтана в фильме Брайана Де Пальма «Лицо со шрамом»",
+      "releaseDate": "25 апреля 1940 г",
+      "imageURL": "https://i.pinimg.com/236x/15/75/c8/1575c876c00ee95177cdff1ab3fe9990.jpg",
+      "image_two": "https://i.pinimg.com/564x/4e/90/ec/4e90ec479dcd65f654c19a77a4a8f3a7.jpg",
+      "id": 4
+    },
+    {
+      "title": "Jean Reno",
+      "description": "Жан Рено́ — французский актёр испанского происхождения. В кино снимается с 1979 года.",
+      "releaseDate": "30 июля 1948 г.",
+      "imageURL": "https://i.pinimg.com/564x/58/4f/da/584fda98cf40f480130af9682c9b3bcd.jpg",
+      "image_two": "https://images-us-am.crackle.com/1/t/ql/2uayb_tnl_1920x1080.jpg?ts=20171219221645",
+      "id": 5
+    },
+    {
+      "title": "Homer Simpson",
+      "description": "Гоме́р Джей Си́мпсон — один из главных героев мультсериала «Симпсоны» и отец в одноимённой семье. Озвучен Дэном Кастелланетой, впервые появился на телеэкране вместе с остальными членами его семьи в короткометражном мультфильме «Спокойной ночи!», показанном на «Шоу Трейси Ульман» 19 апреля 1987 года.",
+      "releaseDate": "1987-04-19",
+      "imageURL": "https://i.pinimg.com/564x/64/3f/eb/643feb8c901c91a16bc5a029d80b02ce.jpg",
+      "image_two": "https://static.timesofisrael.com/www/uploads/2016/02/homer.jpg",
+      "id": 6
+    },
+    {
+      "title": "Billie Eilish",
+      "description": "Би́лли А́йлиш Па́йрат Бэрд О’Ко́ннелл — американская певица и автор песен. Лауреат премии «Оскар» за песню «No Time to Die», написанную для фильма «Не время умирать». Снискала известность в 2015 году благодаря публикации дебютного сингла «Ocean Eyes» на SoundCloud",
+      "releaseDate": "2001-12-18",
+      "imageURL": "https://media1.popsugar-assets.com/files/thumbor/XEBZrpBOh5BZWe-3TbzvDHkbOPk/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/01/26/099/n/1922564/2ced0a2b10059c33_GettyImages-1202151963/i/billie-eilish-gucci-outfit-grammys-2020.jpg",
+      "image_two": "https://i.pinimg.com/originals/c6/4d/0c/c64d0c64e60972e33ce8387edec4831c.jpg",
+      "id": 7
+    },
+    {
+      "title": "Dart Moll",
+      "description": "Дарт Мол — персонаж медиафраншизы «Звёздные войны», тёмный владыка ситхов, ученик Дарта Сидиуса. Появляется в фильмах «Звёздные войны. Эпизод I: Скрытая угроза» и в «Хан Соло. Звёздные войны: Истории», в конце первого эпизода Дарт Мол был перерублен пополам Оби-Ваном Кеноби.",
+      "releaseDate": "1999",
+      "imageURL": "https://www.vokrug.tv/pic/product/7/d/0/f/7d0f45386d77deee1b4710c13c66298b.jpg",
+      "image_two": "https://cdn.igromania.ru/mnt/news/f/d/2/f/c/5/114406/0ea4cab4a18d7cc2_1920xH.jpg",
+      "id": 8
+    },
+    {
+      "title": "Dart Sidious",
+      "description": "Шив Палпати́н, также известный под своим ситхским именем Дарт Сидиус, — ситх, сенатор и Верховный канцлер Галактической Республики, а позднее Император Галактики, один из главных отрицательных героев во вселенной «Звёздные войны». Палпатина сыграл шотландский актёр Иан Макдермид",
+      "releaseDate": "1980",
+      "imageURL": "https://m.media-amazon.com/images/I/91IyQqcvWlL._SS500_.jpg",
+      "image_two": "https://c4.wallpaperflare.com/wallpaper/357/776/846/count-dooku-darth-maul-darth-sidious-darth-vader-wallpaper-preview.jpg",
+      "id": 9
+    },
+    {
+      "title": "Dua Lipa",
+      "description": "Ду́а Ли́па — британская певица косовского происхождения, автор песен и модель. В 2015 году она подписала контракт с Warner Bros. Records и вскоре выпустила там свой первый сингл. В декабре 2016 года при поддержке журнала The Fader был снят документальный фильм о певице, See in Blue.",
+      "releaseDate": "22-08-1995",
+      "imageURL": "https://www.nme.com/wp-content/uploads/2019/01/dua-lipa-GettyImages-1085074344.jpg",
+      "image_two": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c2/Blow_Your_Mind_%28Mwah%29_%28Official_Single_Cover%29_by_Dua_Lipa.png/274px-Blow_Your_Mind_%28Mwah%29_%28Official_Single_Cover%29_by_Dua_Lipa.png",
+      "coments": "Favorite Singer",
+      "id": 10
+    }
+  ]
+}
